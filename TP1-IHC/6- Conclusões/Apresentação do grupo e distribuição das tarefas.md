@@ -1,0 +1,43 @@
+# 6.1 Apresentação do grupo e distribuição das tarefas
+
+## 6.1.1 Objetivo
+Garantir transparência de contribuição, organização e esforço.
+
+---
+
+## 6.1.2 Integrantes
+- **A1**: Ana Paula Xavier — 22352610
+- **A2**: Josiel Santos Monteiro — 22352319
+- **A3**: Wamberson Pacheco — 22352620
+- **A4**: Eugênio — 22352093
+
+
+
+## 6.1.3 Lista de Tarefas
+- **T1**: (Criar a apresentação do grupo e tabela de distribuição de tarefas)
+- **T2**: (Criação dos Objetivo do sistema e perfil dos usuários)
+- **T3**: (Primeira avaliação — Inspeção de Usabilidade)
+- **T4**: (Segunda avaliação – Teste de Usabilidade)
+- **T5**: (Terceira avaliação – UX)
+- **T6**: (Quarta Avaliação –Comunicabilidade (MAC))
+- **T7**: (Conclusões e reflexões sobre o aprendizado)
+- **T8**: (Criar slide)
+
+## 6.1.4 Distribuição de Trabalho
+
+| tarefa x dia | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+|--------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| **T1**       | A2:2 | A3:1 | - | A3:1 | - | - | - | - | - | - | - | - | - | - | A1,A3:2 | - | - | - | - | - | - | - |
+| **T2**       |  - |  - | -  | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1:2 | A3:2 | - |
+| **T3**       | A4:2 | - | - | - | - | - | - | A2:1 | - | A4:2 | - | - | A3:2 | - | A1:2, A3:2 | A1:2, A3:2, A2:4, A4:4 | A3:2 | - | A4,A3:2 | A4:1 | - | - |
+| **T4**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1,A2,A3,A4:2 | A4:1 | - | A1,A4:1 | A1,A3:5 | - |
+| **T5**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A4,A3:5 | - |
+| **T6**       |  - |  - | -  | - | - | - | - | - | - | - | A2:1 | - | A2:1 | - | - | A2:1 | - | A2:1 | - | A1:3,A2:3 | A1:1,A2:6 | - |
+| **T7**       |  - |  - | -  | - | - | - | - | A3:2|A3:2 | - | A2:1 | - | - | - | - | - | A3:1 | - | - | - | - | A1:1,A2:1,A3:1,A4:1 |
+| **T8**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1:4,A2:1,A3:1,A4:1 | A1:3,A2:2,A3:2,A4:2 |
+
+✍️ **Legenda**:  
+- `A1:2` → Integrante A1 trabalhou 2h.  
+- `A1,A2:2` → A1 e A2 trabalharam juntos 2h (cada um).  
+
+
